@@ -1,6 +1,14 @@
 # Prueba Técnica
 Este es mi repositorio que contiene la prueba técnica desarrollada, utilizando PHP nativo (puro) con una arquitectura MVC para el backend, y HTML, CSS y JavaScript para el frontend.
 
+# Habilidades empleadas
+    - Código limpio.
+    - Responsabilidades únicas.
+    - Modularidad.
+    - Escalabilidad en términos básicos.
+    - Patrón de CQRS.
+    - Singleton.
+
 # Requisitos Previos
     - Antes de comenzar, asegúrate de tener los siguientes requisitos y/o aplicativos instalados en tu máquina:
         - PHP (versión 7.4 o superior; viene incluído en un paquete de herramientas llamado servidor local XAMPP, Laragon, entre otros).
@@ -15,9 +23,9 @@ Este es mi repositorio que contiene la prueba técnica desarrollada, utilizando 
         - Con Power Shell o CMD, ve a tú directorio creado: cd 'C:/{path_del_directorio_creado/seleccionado}'.
         - Ejecuta el siguiente comando: git clone https://github.com/keiner3119/PruebaTecnica-LibreGestion.git (Si es por primera vez, Git te pedirá iniciar sesión y en algunos casos permisos)
         - La nomenclatura de los directorios clonados quedaría así:
-            |__SQL
-            |__Documentos
-            |__Test
+            |__SQL (Archivo .sql de la base de datos)
+            |__Documentos (Manual de usabilidad de la aplicación con algunas pruebas funcionales)
+            |__Test (Fuentes del aplicativo)
 
 # Configurar el servidor Local (XAMPP, Laragon o el de su elección)
     - Copia el directorio del proyecto a la carpeta correspondiente del servidor:
